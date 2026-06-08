@@ -1,13 +1,5 @@
 # WebView Bottom Sheet Demo
-
-<div align="center">
-  <a href="https://github.com/kibotu/WebViewBottomSheet/actions" target="_blank">
-    <img src="https://github.com/kibotu/WebViewBottomSheet/actions/workflows/build.yml/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://github.com/kibotu/WebViewBottomSheet" target="_blank">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
-  </a>
-</div>
+[![Build](https://github.com/kibotu/WebViewBottomSheet/actions/workflows/build.yml/badge.svg)](https://github.com/kibotu/WebViewBottomSheet/actions/workflows/build.yml)
 
 ---
 
