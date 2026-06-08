@@ -224,6 +224,12 @@ WebViewBottomSheet/
 
 ---
 
+## 🎥 Demo Video
+
+[![Demo](https://github.com/user-attachments/assets/27b3e23c-0172-4462-a797-dcb884ad5817)](https://github.com/user-attachments/assets/27b3e23c-0172-4462-a797-dcb884ad5817)
+
+---
+
 ## 🌐 Demo URL
 
 The app loads: **https://trail.kibotu.net**
