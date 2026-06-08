@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.WebViewBottomSheet" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+
+    <style name="WebViewBottomSheet" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>zzZ
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
 </resources>

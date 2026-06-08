@@ -1,0 +1,16 @@
+appId: net.kibotu.webviewbottomsheet
+name: launch-and-search
+---
+- launchApp:
+    clearState: true
+- tapOn: "Open WebView"
+- waitForAnimationToEnd:
+    timeout: 8000
+# Tap into the search input field inside the WebView.
+# Selector text may need refinement after first run — use `maestro hierarchy` to inspect.
+- tapOn:
+    text: ".*Such.*|.*such.*"
+    optional: true
+- tapOn:
+    point: "50%, 30%"
+- inputText: "ele"
