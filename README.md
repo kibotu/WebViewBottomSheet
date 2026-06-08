@@ -32,6 +32,12 @@ A beautifully crafted example demonstrating best practices for:
 
 ---
 
+## 🎥 Demo Video
+
+[![Demo](https://github.com/user-attachments/assets/27b3e23c-0172-4462-a797-dcb884ad5817)](https://github.com/user-attachments/assets/27b3e23c-0172-4462-a797-dcb884ad5817)
+
+---
+
 ## ✨ Key Features
 
 | Feature | Description |
@@ -221,12 +227,6 @@ WebViewBottomSheet/
 ```bash
 ./gradlew lint
 ```
-
----
-
-## 🎥 Demo Video
-
-[![Demo](https://github.com/user-attachments/assets/27b3e23c-0172-4462-a797-dcb884ad5817)](https://github.com/user-attachments/assets/27b3e23c-0172-4462-a797-dcb884ad5817)
 
 ---
 
