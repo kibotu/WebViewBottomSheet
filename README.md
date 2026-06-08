@@ -1,8 +1,6 @@
 # WebView Bottom Sheet Demo
 
 <div align="center">
-  <img src="https://github.com/kibotu/WebViewBottomSheet/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="200" alt="WebView Bottom Sheet">
-  <br><br>
   <a href="https://play.google.com/store/apps/details?id=net.kibotu.webviewbottomsheet" target="_blank">
     <img src="https://img.shields.io/badge/GET%20IT%20ON-Purple-tdn.svg" alt="Get it on Google Play">
   </a>
